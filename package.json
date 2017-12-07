@@ -69,5 +69,115 @@
     "rules": {
       "arrow-parens": "off"
     }
-  }
+  },
+  "contributors": [
+    {
+      "name": "Ari Autio",
+      "email": null,
+      "url": "https://github.com/aautio",
+      "contributions": 1,
+      "additions": 2,
+      "deletions": 2,
+      "hireable": null
+    },
+    {
+      "name": "Bartosz Kaszubowski",
+      "email": null,
+      "url": "https://github.com/Simek",
+      "contributions": 1,
+      "additions": 2,
+      "deletions": 2,
+      "hireable": true
+    },
+    {
+      "name": "Gerben Meyer",
+      "email": null,
+      "url": "https://github.com/gerbenmeyer",
+      "contributions": 7,
+      "additions": 69,
+      "deletions": 33,
+      "hireable": null
+    },
+    {
+      "name": "Vincent Fretin",
+      "email": null,
+      "url": "https://github.com/vincentfretin",
+      "contributions": 1,
+      "additions": 1,
+      "deletions": 1,
+      "hireable": null
+    },
+    {
+      "name": "Mohamed Ben Mohamed",
+      "email": null,
+      "url": "https://github.com/tikider",
+      "contributions": 7,
+      "additions": 408,
+      "deletions": 38,
+      "hireable": null
+    },
+    {
+      "name": "Sergey Pchelintsev",
+      "email": null,
+      "url": "https://github.com/jalkoby",
+      "contributions": 1,
+      "additions": 4,
+      "deletions": 2,
+      "hireable": true
+    },
+    {
+      "name": "Nico",
+      "email": null,
+      "url": "https://github.com/Freezystem",
+      "contributions": 2,
+      "additions": 19,
+      "deletions": 131,
+      "hireable": null
+    },
+    {
+      "name": "Rotem",
+      "email": null,
+      "url": "https://github.com/rotem925",
+      "contributions": 1,
+      "additions": 1,
+      "deletions": 1,
+      "hireable": null
+    },
+    {
+      "name": "Jonathan Chen",
+      "email": null,
+      "url": "https://github.com/dijonkitchen",
+      "contributions": 1,
+      "additions": 1,
+      "deletions": 1,
+      "hireable": true
+    },
+    {
+      "name": "Robert Haritonov",
+      "email": null,
+      "url": "https://github.com/operatino",
+      "contributions": 2,
+      "additions": 4,
+      "deletions": 1,
+      "hireable": true
+    },
+    {
+      "name": "Alexander Kremenets",
+      "email": null,
+      "url": "https://github.com/freele",
+      "contributions": 1,
+      "additions": 4,
+      "deletions": 4,
+      "hireable": null
+    },
+    {
+      "name": "Artis Avotins",
+      "email": null,
+      "url": "https://github.com/artisavotins",
+      "contributions": 10,
+      "additions": 3624,
+      "deletions": 794,
+      "hireable": true
+    }
+  ]
 }
