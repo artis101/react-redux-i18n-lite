@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-i18n",
-  "version": "1.9.1",
-  "author": "Convious",
+  "name": "react-redux-i18n-lite",
+  "version": "1.0.0",
+  "author": "Zoover",
   "main": "./build/index.js",
   "scripts": {
     "clean": "rimraf build",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/zoover/react-redux-i18n.git"
+    "url": "git://github.com/artisavotins/react-redux-i18n-lite.git"
   },
   "dependencies": {
-    "react-i18nify": "^1.8.8"
+    "react-i18nify-lite": "^1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
