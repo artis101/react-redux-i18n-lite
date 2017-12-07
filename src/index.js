@@ -1,4 +1,4 @@
-import { I18n, Translate, Localize } from 'react-i18nify';
+import { I18n, Translate, Localize } from 'react-i18nify-lite';
 
 export { I18n, Translate, Localize };
 
